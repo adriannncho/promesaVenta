@@ -1,0 +1,6 @@
+META-INF\panache-archive.marker
+org\service\TicketService.class
+org\acme\TicketApi.class
+org\domain\PromesaDTO.class
+org\acme\GreetingResource.class
+org\domain\PromesaDTO$PromesaDTOBuilder.class
